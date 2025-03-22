@@ -1,3 +1,5 @@
+i have write the codeof this project in jupyter notebook and vscode both  for jupyter code you can download the zip file which is given.
+
 #Laptop Price Prediction
 
 Overview
