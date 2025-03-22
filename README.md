@@ -1,10 +1,10 @@
-Laptop Price Prediction
+#Laptop Price Prediction
 
 Overview
 
 This project aims to predict the price of a laptop based on various features such as brand, processor, RAM, storage, GPU, and other specifications. The model is built using machine learning techniques and can help users estimate laptop prices before making a purchase decision.
 
-Features
+Features :
 
 Dataset preprocessing and cleaning
 
@@ -16,7 +16,7 @@ Predictive analysis using trained models
 
 Interactive user interface (if applicable)
 
-Technologies Used
+Technologies Used ::
 
 Python
 
@@ -28,7 +28,7 @@ Matplotlib, Seaborn (for data visualization)
 
 Flask / Streamlit (for web-based deployment, if applicable)
 
-Installation
+Installation : 
 
 Clone the repository:
 https://github.com/alisha2305/laptop-price-prediction.git
@@ -41,7 +41,7 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
-Dataset
+Dataset :
 
 The dataset used in this project consists of laptop specifications and their corresponding prices.
 
