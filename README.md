@@ -31,8 +31,7 @@ Flask / Streamlit (for web-based deployment, if applicable)
 Installation
 
 Clone the repository:
-
-
+https://github.com/alisha2305/laptop-price-prediction.git
 
 Navigate to the project directory:
 
@@ -44,9 +43,9 @@ pip install -r requirements.txt
 
 Dataset
 
-The dataset used in this project consists of laptop specifications and their corresponding prices. If you don't have a dataset, you can collect data from e-commerce websites or use an existing dataset from platforms like Kaggle.
+The dataset used in this project consists of laptop specifications and their corresponding prices.
 
-Usage
+Usage :
 
 Prepare and preprocess the dataset.
 
