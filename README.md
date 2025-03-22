@@ -31,10 +31,6 @@ Flask / Streamlit (for web-based deployment, if applicable)
 
 Installation :
 
-Clone the repository:
-
-git clone https://github.com/yourusername/laptop-price-prediction.git
-
 Navigate to the project directory:
 
 cd laptop-price-prediction
