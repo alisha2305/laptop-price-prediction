@@ -1,11 +1,10 @@
-# laptop-price-prediction
 Laptop Price Prediction
 
-Overview :
+Overview
 
 This project aims to predict the price of a laptop based on various features such as brand, processor, RAM, storage, GPU, and other specifications. The model is built using machine learning techniques and can help users estimate laptop prices before making a purchase decision.
 
-Features :
+Features
 
 Dataset preprocessing and cleaning
 
@@ -13,11 +12,11 @@ Feature selection and engineering
 
 Machine learning model training and evaluation
 
-Predictive analysis using trained models 
+Predictive analysis using trained models
 
 Interactive user interface (if applicable)
 
-Technologies Used :
+Technologies Used
 
 Python
 
@@ -29,7 +28,11 @@ Matplotlib, Seaborn (for data visualization)
 
 Flask / Streamlit (for web-based deployment, if applicable)
 
-Installation :
+Installation
+
+Clone the repository:
+
+
 
 Navigate to the project directory:
 
@@ -65,15 +68,15 @@ The following steps are involved in training the model:
 
 Data cleaning and preprocessing
 
-Feature engineering
+Feature engineering 
 
 Splitting data into training and testing sets
 
-Choosing the best model (e.g., Linear Regression, Random Forest, Gradient Boosting, etc.)
+Choosing the best model (e.g., Linear Regression, Decission tree, etc.)
 
 Evaluating model performance using metrics like RMSE and R-squared
 
-Deployment
+Deployment :
 
 The model can be deployed using Flask or Streamlit for a simple web interface. If deploying with Flask:
 
@@ -83,21 +86,19 @@ For Streamlit:
 
 streamlit run app.py
 
-Contributors
+Contributors :
 
-Your Name (your.email@example.com)
+Your Name (Alisha Bano)
 
-Other Contributors (if any)
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
+Acknowledgments :
 
 Kaggle for datasets
 
 Scikit-learn and other open-source libraries
 
 Online tutorials and documentation
+
+
+
+
 
