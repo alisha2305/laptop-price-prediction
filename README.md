@@ -1,8 +1,8 @@
-i have write the codeof this project in jupyter notebook and vscode both  for jupyter code you can download the zip file which is given.
+ I  have write this code of project in jupyter notebook and  vscode both .
+ 
+ Laptop Price Prediction
 
-#Laptop Price Prediction
-
-Overview
+Overview :
 
 This project aims to predict the price of a laptop based on various features such as brand, processor, RAM, storage, GPU, and other specifications. The model is built using machine learning techniques and can help users estimate laptop prices before making a purchase decision.
 
@@ -18,9 +18,9 @@ Predictive analysis using trained models
 
 Interactive user interface (if applicable)
 
-Technologies Used ::
+Technologies Used
 
-Python
+Python :
 
 Pandas, NumPy (for data manipulation)
 
@@ -30,10 +30,11 @@ Matplotlib, Seaborn (for data visualization)
 
 Flask / Streamlit (for web-based deployment, if applicable)
 
-Installation : 
+Installation :
 
 Clone the repository:
-https://github.com/alisha2305/laptop-price-prediction.git
+
+git clone https://github.com/alisha2305/laptop-price-prediction.git
 
 Navigate to the project directory:
 
@@ -47,7 +48,7 @@ Dataset :
 
 The dataset used in this project consists of laptop specifications and their corresponding prices.
 
-Usage :
+Usage
 
 Prepare and preprocess the dataset.
 
@@ -69,11 +70,11 @@ The following steps are involved in training the model:
 
 Data cleaning and preprocessing
 
-Feature engineering 
+Feature engineering
 
 Splitting data into training and testing sets
 
-Choosing the best model (e.g., Linear Regression, Decission tree, etc.)
+Choosing the best model (e.g., Linear Regression, Decision Tree, etc.)
 
 Evaluating model performance using metrics like RMSE and R-squared
 
@@ -89,7 +90,7 @@ streamlit run app.py
 
 Contributors :
 
-Your Name (Alisha Bano)
+Alisha Bano
 
 Acknowledgments :
 
@@ -98,6 +99,8 @@ Kaggle for datasets
 Scikit-learn and other open-source libraries
 
 Online tutorials and documentation
+
+
 
 
 
